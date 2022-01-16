@@ -14,7 +14,7 @@
 
 ### Databases
 
-[Government Databse in SQL](/sample_page.md)
+[Government Databse in SQL](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
