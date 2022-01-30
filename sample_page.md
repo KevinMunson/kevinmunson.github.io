@@ -1,16 +1,13 @@
-## This can be your internal website page / project page
 
-**Project description:** Our team built a database in SQL of the federal government, starting with some of their hard assets.
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+**Federal Government database in SQL:**
 
-We wanted to see how much money is being spent on different assets. 
+Our team was interested in government transparency and helping people understand more about their government. 
+In order to do this, we created a database to track some of the physical assets of the government. 
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+For example, we wanted to know how many vehicles the government has and what type they are:
+
+<img src="images/dummy_thumbnail.jpg?raw=true"
 
 ### 2. Assess assumptions on which statistical inference will be based
 
