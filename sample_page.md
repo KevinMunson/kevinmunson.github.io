@@ -1,21 +1,18 @@
 
 
-**Federal Government database in SQL:**
+***Federal Government database in SQL:***
 
-Our team was interested in government transparency and helping people understand more about their government. 
-In order to do this, we created a database to track some of the physical assets of the government. 
+Our team was interested in government transparency and helping people understand more about their government.
+In order to do this, we created a database to track some of the physical assets of the government.
 
-For example, we wanted to know how many vehicles the government has and what type they are:
+### How many vehicles the each department of the Government has and what type they are:
 
-<img src="images/dummy_thumbnail.jpg?raw=true"
+<img src="images/NumberofFederalFleetperDept.jpg?raw=true"
 
-### 2. Assess assumptions on which statistical inference will be based
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+
+
+
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
