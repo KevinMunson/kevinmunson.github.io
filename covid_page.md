@@ -14,7 +14,7 @@ India. China and France are in there as well for scale.
 
 The top line is weekly cases and the blue is the number of deaths. Each of those are sums for the months. The other lines are the level of the policy and the color on these lines shows the weekyly variance in cases.
 
-<img src="images/TopFiveOverTime.PNG?raw=true"/>
+<img src="images/TopFiveOverTime.png?raw=true"/>
 
 Now for some individual countries to really see the effects. First we have France.
 
