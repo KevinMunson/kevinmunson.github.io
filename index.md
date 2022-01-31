@@ -7,14 +7,14 @@
 
 
 ---
-[COVID Analyses](/pdf/sample_presentation.pdf)
+[COVID Analyses](/covid_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Databases
 
-[Government Databse in SQL](/sample_page)
+[Government Databse in SQL](/SQL_page)
 <img src="images/executiveBranch.png?raw=true"/>
 
 ---
