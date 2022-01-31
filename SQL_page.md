@@ -18,7 +18,7 @@ In order to do this, we created a database to track some of the physical assets 
 
 ### What are the homeports of the United States Naval Vessels?
 
-<img src="images/shipPort.png?raw=true"/>
+<img src="images/shipPort.PNG?raw=true"/>
 
 ### What kind of ships are on order for the Navy?
 
