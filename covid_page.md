@@ -29,7 +29,7 @@ The United States
 Brazil
 <img src="images/BrazilLines.PNG?raw=true"/>
 
-individual
+India
 <img src="images/indiaLines.PNG?raw=true"/>
 
 China
