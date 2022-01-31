@@ -13,7 +13,7 @@ In order to do this, we created a database to track some of the physical assets 
 ### Which countries produce aircrafts for the United States?
 
 
-<img src="images/countryProduce.PNG?raw=true"/>
+<img src="images/Countrtcraft.PNG?raw=true"/>
 
 
 ### What are the homeports of the United States Naval Vessels?
@@ -23,4 +23,4 @@ In order to do this, we created a database to track some of the physical assets 
 ### What kind of ships are on order for the Navy?
 
 
-<img src="images/onOrderShips.png?raw=true"/>
+<img src="images/Onorder.png?raw=true"/>
