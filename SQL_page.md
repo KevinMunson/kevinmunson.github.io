@@ -7,13 +7,13 @@ In order to do this, we created a database to track some of the physical assets 
 
 ### How many vehicles the each department of the Government has and what type they are:
 
-<img src="images/fleetDept.PNG?raw=true"/>
+<img src="images/fleetDept.png?raw=true"/>
 
 
 ### Which countries produce aircrafts for the United States?
 
 
-<img src="images/craftCount.PNG?raw=true"/>
+<img src="images/craftCount.png?raw=true"/>
 
 
 ### What are the homeports of the United States Naval Vessels?
