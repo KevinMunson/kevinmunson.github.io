@@ -7,12 +7,12 @@
 
 
 ---
-[COVID Analyses](/covid_page)
+[COVID Analysis](/covid_page)
 <img src="images/TopFiveOverTime.PNG?raw=true"/>
 
 ---
 
-### Databases
+### Database
 
 [Government Databse in SQL](/SQL_page)
 <img src="images/executiveBranch.png?raw=true"/>
