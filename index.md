@@ -8,7 +8,7 @@
 
 ---
 [COVID Analysis](/covid_page)
-<img src="images/TopFiveOverTime.PNG?raw=true"/>
+<img src="images/TopFiveOverTime.png?raw=true"/>
 
 ---
 

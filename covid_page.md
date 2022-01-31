@@ -19,33 +19,32 @@ The top line is weekly cases and the blue is the number of deaths. Each of those
 Now for some individual countries to really see the effects. First we have France.
 
 
-<img src="images/FranceLines.PNG?raw=true"/>
+<img src="images/FranceLines.png?raw=true"/>
 
 
 The United States
 
-<img src="images/USLines.PNG?raw=true"/>
+<img src="images/USLines.png?raw=true"/>
 
 Brazil
-<img src="images/BrazilLines.PNG?raw=true"/>
+<img src="images/BrazilLines.png?raw=true"/>
 
 India
-<img src="images/indiaLines.PNG?raw=true"/>
+<img src="images/indiaLines.png?raw=true"/>
 
 China
 
-<img src="images/ChinaLines.PNG?raw=true"/>
+<img src="images/ChinaLines.png?raw=true"/>
 
 Indonesia
 
-<img src="images/indolines.PNG?raw=true"/>
+<img src="images/indolines.png?raw=true"/>
 
-And now for some countries that did well with the virus:
 
 Japan
 
-<img src="images/JapanLines.PNG?raw=true"/>
+<img src="images/JapanLines.png?raw=true"/>
 
 
 South Korea
-<img src="images/skLines.PNG?raw=true"/>
+<img src="images/skLines.png?raw=true"/>
